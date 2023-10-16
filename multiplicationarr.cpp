@@ -1,7 +1,6 @@
-/*
-PRN - 22070123092
-Multiplication of Matrix
-*/
+/*22070123129*/
+/*Varun Pagote*/
+/*Multiplication of Matrix*/
 
 #include <iostream>
 using namespace std;
