@@ -175,6 +175,19 @@ for (int i = 0; i < rows; i++) {
 
 ### **OUTPUT**
 
+- **Enter the marks of 10 subjects and display it**
+
+
+![exp7_5](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/123eb5c9-4f57-4d48-9d6b-e202c6c8786b)
+
+- **Enter the marks of subjects from user and display it**
+
+![exp7_6_1](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/260815a5-836c-4bf8-bf91-f92a4f1914ae)
+
+
+![exp7_6_2](https://github.com/Purvansha022609/Arrays-and-Strings/assets/139473344/c1e6738b-1e5f-4faa-aaeb-43c15d2f01dc)
+
+
 - **Take matrix input from user and display it**
   
 
