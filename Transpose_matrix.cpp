@@ -1,7 +1,7 @@
-/*
-PRN - 22070123092
-Transpose of Matrix
-*/
+
+/*22070123129*/
+/*Varun Pagote*/
+/*Transpose matrix*/
 
 #include<iostream>
 using namespace std ;
