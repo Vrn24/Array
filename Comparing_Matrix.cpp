@@ -1,7 +1,6 @@
-/*
-PRN - 22070123092
-Comparing elements of two Matrix
-*/
+/*22070123129*/
+/*Varun Pagote*/
+/*Compare matrix*/
 
 #include <iostream>
 using namespace std;
